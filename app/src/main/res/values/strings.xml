@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BudgetBuddy</string>
+    <string name="txtTitle">Budget App To Help You Save</string>
+    <string name="finance">Finance Image</string>
+    <string name="txtHeader">Financial Information</string>
+    <string name="btnExpenses">Calculate Monthly Expenses</string>
+    <string name="btnEarnings">Total Monthly Earnings</string>
+    <string name="hintCar">Car Note and Insurance</string>
+    <string name="hintRent">Rent/Mortgage</string>
+    <string name="hintGas">Gas Bill</string>
+    <string name="hintElectric">Electric Bill</string>
+    <string name="hintWater">Water Bill</string>
+    <string name="hintInternet">Internet/Cable Bill</string>
+    <string name="hintMiscellaneous">Miscellaneous Expenses</string>
+    <string name="hintFood">Monthly Food Budget</string>
+    <string name="txtExpenses">Total Monthly Expenses</string>
+    <string name="btnToIncome">Click To Enter Income</string>
+    <string name="radSalary">Salary</string>
+    <string name="radHourly">Hourly</string>
+    <string name="hintIncome">Enter Salary/Hourly Wage</string>
+    <string name="btnConvert">Convert Pay to Monthly Income</string>
+    <string name="btnFinal">See Potential Savings or Losses</string>
+    <string name="txtDisplay">Monthly Income</string>
+    <string name="txtEnd">Profit/Loss</string>
+    <string name="txtHours">How Many Hours A Week</string>
+</resources>
